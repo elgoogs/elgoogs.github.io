@@ -19,7 +19,7 @@ i will give you a price tailored to scope, quality, and time once a request is c
 ### dont hire me for:
 - brainrot or cashgrab games ❌️
 
-### long-term work policy 💲
+# long-term work policy 💲
 i dont work long term a lot due to stress and anxiety, but if your long-term comission meets the following requirements feel free to ask me if im open for long term work!
 - $10/task minimum (setting up a viewmodel, coding a VFX system, etc.)
 - Proper credits of user and socials
