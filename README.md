@@ -8,8 +8,17 @@ hello! I am el_googs, and i have been a part of the ROBLOX community for over 8 
 # why hire me
 i have *hundreds* of files from studio with countless projects ive made in my free time, as well as **an actual passion** for creating games.
 
+# pricing
+i will give you a price tailored to scope, quality, and time once a request is comissioned. payment will be provided once product is complete and ready for transaction.
+**i take:**
+- robux (3,000-15,000. group payouts/giftcards only)
+- cashapp ($15-$100)
+- paypal ($15-$100)
+- nitro (full only)
+
 ### dont hire me for:
 - brainrot or cashgrab games ❌️
+
 ### long-term work policy 💲
 i dont work long term a lot due to stress and anxiety, but if your long-term comission meets the following requirements feel free to ask me if im open for long term work!
 - $10/task minimum (setting up a viewmodel, coding a VFX system, etc.)
