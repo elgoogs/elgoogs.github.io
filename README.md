@@ -1,5 +1,5 @@
 # introduction
-hello! I am el_googs, and i have been a part of the ROBLOX community for over 8 years! My first taste of coding came when i got a laptop for christmas, now i am addicted to scripting (thx dad). i have a profound understanding of the Lua/u language, as well as others, which are listed below
+i am el_googs. i script
 ### languages i know:
 - Luau (my passion & strongest language) 🔥
 - Python (through school) 🐍
