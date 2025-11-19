@@ -1,12 +1,10 @@
-# introduction
-i am el_googs. i script
 ### languages i know:
-- Luau (my passion & strongest language) 🔥
-- Python (through school) 🐍
-- JavaScript (syntax/application methods) 🟨
+- Luau
+- Python
+- JavaScript
 
 # why hire me
-i have *hundreds* of files from studio with countless projects ive made in my free time, as well as **an actual passion** for creating games.
+i have a profound knowledge in luau, and can create neat and optimized systems using modules, server-client systems, etc.
 
 # pricing
 i will give you a price tailored to scope, quality, and time once a request is comissioned. payment will be provided once product is complete and ready for transaction.
@@ -17,7 +15,7 @@ i will give you a price tailored to scope, quality, and time once a request is c
 - nitro (full only)
 
 ### dont hire me for:
-- brainrot or cashgrab games ❌️
+- brainrot or cashgrab games
 
 # long term work policy 💲
 i dont work long term a lot due to stress and anxiety, but if your long-term comission meets the following requirements feel free to ask me if im open for long term work!
